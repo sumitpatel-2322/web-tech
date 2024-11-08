@@ -1,4 +1,4 @@
-this is the first text file for testing git
+this is the not first text file for testing git
 
 
 the changes i made
